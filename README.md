@@ -33,7 +33,8 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 ## 💻 Projeto
 
-O habits e um appp para ajudar a rastrear os habitos .
+- [visite o projeto online](https://coruja1m.github.io/nlw-setup/)
+  O habits e um appp para ajudar a rastrear os habitos .
 
 ## 🔖 Layout
 
